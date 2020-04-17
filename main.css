@@ -1,0 +1,147 @@
+.main-header{
+    padding: 18px;
+    border: 5px solid black;
+    border-radius: 15px;
+}
+.bg-secondary{
+    padding: 15px;
+    border: 4px solid black;
+    border-radius: 15px;
+}
+.col-md-6{
+    padding-top: 20;
+    margin-top: 15px;
+    color: antiquewhite;
+}
+.col-md-6 h1{
+    color: white;
+    font-size: 80px;
+}
+.col-md-6 h2{
+    color: whitesmoke;
+}
+.col-md-6 h3 {
+    text-align: center;
+}
+.col-md-4{
+    padding-top: 20px;
+    margin-top: 10px;
+}
+.col-md-4 h4 {
+    padding-bottom: 25px;
+}
+.col-md-4 h4 a {
+    color: antiquewhite;
+    padding: 15px;
+}
+.col-md-4 h4 a:hover,
+.col-md-4 h4 a:active{
+    color: #790604;
+}
+#h41{
+    text-align: left;
+}
+#h42{
+    text-align: center;
+}
+#h43{
+    text-align: right;
+}
+.col-md-3{
+    
+    border: 2px solid black;
+    border-radius: 15px;
+    background-color: #c0c0c0;
+    margin-top: 10px;
+    
+    
+}
+.langues{
+    color: #00004C;
+    text-decoration: underline;
+    padding: 20px;
+}
+.h44{
+    color: black;
+    text-align: right;
+}
+.liste1{
+    text-align: center;
+    list-style: none;
+    color: white;
+    padding-left: 10px;
+}
+.competance{
+    color: #00004C;
+    text-decoration: underline;
+    padding: 20px;
+}
+.liste2{
+    color: white;
+    list-style: none;
+}
+.titre{
+    color: rgb(8, 8, 97);
+}
+.liste2 h4{
+    text-align: center;
+}
+.liste2 h5{
+    text-align: left;
+}
+.col-md-9{
+    margin-top: 15px;
+}
+.main-div{
+    padding: 10px;
+    margin: 20px;
+    border: 5px solid black;
+    border-radius: 15px 50px;
+    background-color: #ffffe0;
+}
+.main-div h2{
+    color: #880921;
+    text-decoration: underline;
+    text-align: center;
+}
+.main-div2{
+    padding: 20px;
+    margin: 20px;
+    border: 5px solid black;
+    border-radius: 50px 15px;
+}
+.main-div2 h2{
+    color: #880921;
+    text-decoration: underline; 
+    text-align: center;
+}
+.main-div2 h4{
+    text-align: center;
+    font-weight: bold;
+}
+.main-div2 p{
+    text-align: center;
+    font-size: xx-large;
+}
+.main-div3{
+    padding: 20px;
+    margin: 20px;
+    border: 5px solid black;
+    border-radius: 15px 50px;
+}
+.main-div3 h2{ 
+    text-align: center;
+    color: #880921;
+    text-decoration: underline;
+}
+.i1{
+    text-align: center;
+    font-weight: bold;
+}
+footer{
+    padding: 10px;
+    margin: 15px;
+    border: 5px solid black;
+    border-radius: 50px 15px;
+    ;
+}
